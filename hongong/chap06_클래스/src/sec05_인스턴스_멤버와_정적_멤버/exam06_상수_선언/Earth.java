@@ -1,4 +1,4 @@
-package sec05.exam06_상수_선언;
+package sec05_인스턴스_멤버와_정적_멤버.exam06_상수_선언;
 
 public class Earth {
 	static final double EARTH_RADIUS = 6400;

@@ -1,4 +1,4 @@
-package sec05.exam02_정적_멤버_사용;
+package sec05_인스턴스_멤버와_정적_멤버.exam02_정적_멤버_사용;
 
 public class CalculatorExample {
 

@@ -1,4 +1,4 @@
-package sec05.exam01_인스턴스_멤버와_this;
+package sec05_인스턴스_멤버와_정적_멤버.exam01_인스턴스_멤버와_this;
 
 public class CarExample {
 

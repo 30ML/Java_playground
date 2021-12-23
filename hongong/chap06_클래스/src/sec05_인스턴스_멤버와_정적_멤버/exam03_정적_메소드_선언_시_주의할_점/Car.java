@@ -1,4 +1,4 @@
-package sec05.exam03_정적_메소드_선언_시_주의할_점;
+package sec05_인스턴스_멤버와_정적_멤버.exam03_정적_메소드_선언_시_주의할_점;
 
 public class Car {
 	int speed;
