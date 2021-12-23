@@ -1,0 +1,23 @@
+package sec04.exam04_클래스_내부에서_메소드_호출;
+
+public class Calculator {
+	int plus(int x, int y) {
+		int result = x + y;
+		return result;
+	}
+	
+	double avg(int x, int y) {
+		double sum = (double)plus(x, y);
+		double result = sum / 2;
+		return result;
+	}
+	
+	void execute() {
+		double result = avg(7, 10);
+		println("실행 결과: " + result);
+	}
+	
+	void println(String message) {
+		System.out.println(message);
+	}
+}
