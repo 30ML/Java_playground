@@ -1,4 +1,4 @@
-package sec04.exam03;
+package sec04_메소드.exam03_return문;
 
 public class Car {
 	// Field

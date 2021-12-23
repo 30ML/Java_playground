@@ -1,4 +1,4 @@
-package sec04.exam01;
+package sec04_메소드.exam01_메소드_선언;
 
 public class CalculatorExample {
 

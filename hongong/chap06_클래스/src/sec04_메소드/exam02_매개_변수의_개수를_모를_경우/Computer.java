@@ -1,4 +1,4 @@
-package sec04.exam02;
+package sec04_메소드.exam02_매개_변수의_개수를_모를_경우;
 
 public class Computer {
 	int sum1(int[] values) {

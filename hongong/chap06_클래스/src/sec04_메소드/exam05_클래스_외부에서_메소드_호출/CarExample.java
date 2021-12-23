@@ -1,4 +1,4 @@
-package sec04.exam05_클래스_외부에서_메소드_호출;
+package sec04_메소드.exam05_클래스_외부에서_메소드_호출;
 
 public class CarExample {
 

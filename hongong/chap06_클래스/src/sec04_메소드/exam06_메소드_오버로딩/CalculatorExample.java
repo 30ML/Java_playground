@@ -1,4 +1,4 @@
-package sec04.exam06_메소드_오버로딩;
+package sec04_메소드.exam06_메소드_오버로딩;
 
 public class CalculatorExample {
 
