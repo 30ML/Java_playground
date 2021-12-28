@@ -12,7 +12,6 @@ public class SuperSonicAirplaneExample {
 		sa.flyMode = SupersonicAirplane.NORMAL;
 		sa.fly();
 		sa.land();
-		
 	}
 
 }
