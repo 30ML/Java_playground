@@ -1,4 +1,4 @@
-package sec01_상속.exam1_부모_클래스;
+package sec01_상속.exam01_클래스_상속;
 
 public class CellPhone {
 	// FIELD
