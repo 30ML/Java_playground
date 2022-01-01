@@ -6,7 +6,7 @@ public class DriverExample {
 		Driver driver = new Driver();
 		
 		Bus bus = new Bus();
-		Texi texi = new Texi();
+		Taxi texi = new Taxi();
 		
 		driver.drive(bus); // Type Promotion
 		driver.drive(texi); // Type Promotion
