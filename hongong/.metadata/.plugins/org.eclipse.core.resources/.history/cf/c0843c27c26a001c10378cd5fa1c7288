@@ -1,0 +1,10 @@
+package sec01_인터페이스.exam05_인터페이스_사용;
+
+public class MyClassExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
