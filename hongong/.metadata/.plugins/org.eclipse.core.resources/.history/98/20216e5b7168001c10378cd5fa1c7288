@@ -1,5 +1,0 @@
-package sec02_타입_변환과_다형성.exam05_강제_타입_변환;
-
-public class Parent {
-
-}

@@ -1,5 +1,0 @@
-package sec01_인터페이스.exam02_추상_메소드_선언;
-
-public interface RemoteControl {
-
-}

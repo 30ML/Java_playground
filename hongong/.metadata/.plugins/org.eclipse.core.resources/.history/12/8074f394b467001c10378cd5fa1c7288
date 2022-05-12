@@ -1,5 +1,0 @@
-package sec01_상속.exam06_재정의할_수_없는_final_메소드;
-
-public class Car {
-
-}

@@ -1,5 +1,0 @@
-package sec01_인터페이스.exam01_상수_필드_선언;
-
-public interface RemoteControl {
-
-}
